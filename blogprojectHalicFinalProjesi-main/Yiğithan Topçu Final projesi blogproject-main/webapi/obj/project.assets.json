@@ -1722,11 +1722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\webapi.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1741,11 +1741,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data\\data.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data\\data.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data\\data.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data\\data.csproj"
             },
-            "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj"
+            "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj"
             }
           }
         }

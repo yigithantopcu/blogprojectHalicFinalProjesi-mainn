@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7RXoWRUu5EjIQQ/r9HTlmclDUz9W5UO3twbMNhijGddz/eoSukyeteNedA/UAvXuwO36d2hwJISYTgJVRo4cUw==",
+  "dgSpecHash": "LVD4AgV7+mCfjAvoLrmZfv9MqncnL5odgUkKry2XqBJrDfOGzmxum/zK0rq+dleaPf1pzNkMmRKEMGaSqmLTcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data-test\\data-test.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\data-test\\data-test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

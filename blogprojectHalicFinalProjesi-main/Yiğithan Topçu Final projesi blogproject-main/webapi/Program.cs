@@ -66,6 +66,10 @@ KredilerMap.AddMap(app);
 Hava_DurumuMap.AddMap(app);
 SehirlerMap.AddMap(app);
 SözlükMap.AddMap(app);
+Futbol_Puan_DurumuMap.AddMap(app);
+Steam_Oyun_KütüphanesiMap.AddMap(app);
+FilmlerMap.AddMap(app);
+
 
 app.UseCors(MyAllowSpecificOrigins);
 app.Run();

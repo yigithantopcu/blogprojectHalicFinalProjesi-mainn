@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PU2/POqBhOB3hTVrGP+5iWYT7njm0Z+eUDxE9BMKMv8gUnP3zCeGNq21M/sH2olEFFbwMEKEYS8PPT9ShZc5DQ==",
+  "dgSpecHash": "R+x+c5yGGbi+E6YYqqwnYmCjwbjUAaDJTHnl3x1CbYwhX6OSXnZG748J3oqpdCiR+EBvATk6gosUB5/N8SDJJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\blogprojectHalicFinalProjesi-main\\blogprojectHalicFinalProjesi-main\\Yiğithan Topçu Final projesi blogproject-main\\services\\services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

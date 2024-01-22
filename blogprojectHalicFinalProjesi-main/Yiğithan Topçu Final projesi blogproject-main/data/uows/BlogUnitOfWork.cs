@@ -19,6 +19,9 @@ namespace data.uows
         private Repository<Hava_Durumu> _Hava_DurumuRepository;
         private Repository<Sehirler> _SehirlerRepository;
         private Repository<Sözlük> _SözlükRepository;
+        private Repository<Futbol_Puan_Durumu> _Futbol_Puan_DurumuRepository;
+        private Repository<Steam_Oyun_Kütüphanesi> _Steam_Oyun_KütüphanesiRepository;
+        private Repository<Filmler> _FilmlerRepository;
 
 
         public Repository<Krediler> kredilerRepository {
@@ -69,7 +72,29 @@ namespace data.uows
                 return _SözlükRepository;
             }
         }
-        
-
+        public Repository<Futbol_Puan_Durumu> Futbol_Puan_DurumuRepository {
+            get {
+                if (_Futbol_Puan_DurumuRepository == null) {
+                    _Futbol_Puan_DurumuRepository = new Repository<Futbol_Puan_Durumu>(_context);
+                }
+                return _Futbol_Puan_DurumuRepository;
+            }
+        }
+        public Repository<Steam_Oyun_Kütüphanesi> Steam_Oyun_KütüphanesiRepository {
+            get {
+                if (_Steam_Oyun_KütüphanesiRepository == null) {
+                    _Steam_Oyun_KütüphanesiRepository = new Repository<Steam_Oyun_Kütüphanesi>(_context);
+                }
+                return _Steam_Oyun_KütüphanesiRepository;
+            }
+        }
+        public Repository<Filmler> FilmlerRepository {
+            get {
+                if (_FilmlerRepository == null) {
+                    _FilmlerRepository = new Repository<Filmler>(_context);
+                }
+                return _FilmlerRepository;
+            }
+        }
     }
 }   
